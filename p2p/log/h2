@@ -1,0 +1,41 @@
+Download file as: ./dst/data2/test 
+Peer ip: 10.0.0.3 
+Peer port: 2682 
+
+* Getting a block from the server:
+* Peer started, waiting for other peers to connect...
+Index of current peer: 2
+Number of peers: 5
+Information of peers: [('10.0.0.5', 2684), ('10.0.0.6', 2685), ('10.0.0.3', 2682), ('10.0.0.4', 2683), ('10.0.0.2', 2681)]
+Length of the file: 10816961
+Name of the block: ./dst/data2/2
+Length of the block: 2163393
+Got connection from ('10.0.0.6', 38948)
+Got connection from ('10.0.0.4', 33630)
+Downloading of block finished!
+
+* Asking other peers for blocks...
+Asking peer at index 0 for a block
+Asking peer at index 1 for a block
+Asking peer at index 3 for a block
+Asking peer at index 4 for a block
+Got connection from ('10.0.0.5', 50930)
+Got connection from ('10.0.0.2', 49560)
+Transmission of block 2 to another peer completed!
+
+Transmission of block 2 to another peer completed!
+
+Transmission of block 2 to another peer completed!
+
+Downloading of block 0 finished!
+
+Transmission of block 2 to another peer completed!
+
+Downloading of block 1 finished!
+
+Downloading of block 4 finished!
+
+Downloading of block 3 finished!
+
+* Combining the blocks to get the file
+* Run time: 17.714877128601074

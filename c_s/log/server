@@ -1,0 +1,17 @@
+./src/test
+* Server started, waiting for client to connect...
+Got connection from ('10.0.0.2', 42312)
+Got connection from ('10.0.0.4', 52334)
+Got connection from ('10.0.0.6', 35542)
+Got connection from ('10.0.0.3', 54658)
+Got connection from ('10.0.0.5', 45846)
+Transmission completed!
+
+Transmission completed!
+
+Transmission completed!
+
+Transmission completed!
+
+Transmission completed!
+

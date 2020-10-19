@@ -1,0 +1,17 @@
+./src/test 5
+Server started, waiting for client to connect...
+Got connection from (10.0.0.5, 45858) at index 0
+Got connection from (10.0.0.6, 35560) at index 1
+Got connection from (10.0.0.3, 54676) at index 2
+Got connection from (10.0.0.4, 52358) at index 3
+Got connection from (10.0.0.2, 42340) at index 4
+Transmission of block 4 completed!
+
+Transmission of block 1 completed!
+
+Transmission of block 3 completed!
+
+Transmission of block 0 completed!
+
+Transmission of block 2 completed!
+
